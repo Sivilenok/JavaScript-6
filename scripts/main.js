@@ -55,4 +55,4 @@ const binary = [0, 0, 0, 0];
 const foo = binary.join(1);
 console.log(foo);
 
-// Advanced
+// Advanced Task 1
